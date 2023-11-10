@@ -26,9 +26,10 @@ Flappy Bird Force is an Android game inspired by the classic "Flappy Bird" but w
 
 ## Game Modes
 
-- Classic Mode: Play the traditional Flappy Bird experience.
-- Turbo Mode: Experience high-speed gameplay with faster obstacles.
-- Gravity Mode: Navigate through obstacles with varying gravity.
+- **Classic Mode**: Play the traditional Flappy Bird experience.
+- **Fast Mode**: Experience high-speed gameplay with faster obstacles.
+- **Crazy Mode**: Navigate through crazy moving obstacles.
+- **Easy Mode:** Touching obstacles won't end the game.
 
 ## Note
 
