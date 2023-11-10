@@ -31,10 +31,6 @@ Flappy Bird Force is an Android game inspired by the classic "Flappy Bird" but w
 - **Crazy Mode**: Navigate through crazy moving obstacles.
 - **Easy Mode:** Touching obstacles won't end the game.
 
-## Note
-
-Flappy Bird Force is designed for Android devices. If you encounter any issues or have suggestions, feel free to open an issue on the [GitHub repository](https://github.com/omer-games/FlappyBirdForce).
-
 ## Developer
 
 Omer-Games
